@@ -1,0 +1,7 @@
+
+boto3
+cryptography
+pinecone-client>=5.4.0
+oqs-python
+qiskit
+
